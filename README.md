@@ -1,6 +1,6 @@
 - 👋 Hola, soy @aguirreaxel
 - 👀 Estoy aprendiendo sobre programación.
-- 🌱 Estoy estudiando programación y análisis de sistemas.
+- 🌱 Estoy estudiando Análisis de Datos y Data Science
 - 💞️ Amo mucho a mi novia Constanza Ramos.
 - 📫 Mi correo es axel.aguirre.n@hotmail.com
 
